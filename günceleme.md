@@ -78,3 +78,8 @@ bash ./ruesandora.sh
 ```
 docker restart wormholes
 ```
+## Node girdiğinizde sadece logları kontrol etmek istiyorsanız:
+
+```
+cd wormholes-0.11.0
+bash ./ruesandora.sh
